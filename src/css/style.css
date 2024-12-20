@@ -1,0 +1,14 @@
+
+.inline-header{
+    color:gray;
+    background-color: yellow;
+    font-size: 40px;
+
+}
+
+.outline-header{
+    color:blueviolet;
+    background-color: rgb(255, 0, 76);
+    font-size: 40px;
+    margin: 0;
+}
